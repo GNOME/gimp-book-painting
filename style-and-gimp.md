@@ -26,3 +26,9 @@ In many situations the user can, if he wants, customize a "prêt-a-porter" the t
 Is possible that a certain rules these presets could cause in our styles… mainly if this fact is not clear for the users, in this sense, I think very important to know well these aspects during the design of presets, mainly if we have intention to share them. So, is very important for the default presets on the painting applications, to have an approach more classical for the painting techniques, must be more possibly 'basics'. As advice I read today a quote very interesting wrote by Brian Eno that is useful in this issue about Tool Presets as Prêt-à-porter:
 
 "Stop thinking about art works as objects, and start thinking about them as triggers for experiences."
+
+## Simulacro on paint dynamics
+Has a tendency to explain the realty as place ideal where the focus is the simulacro, the copy of the copy, the hiperealism rappresents this tendency in the art and fine arts.
+Sensations that this apple is so real that it seems made of plastic material or 'fake'.
+The tools presets and paint dynamics are artefacts to simulate and certain sense a simulacro of painting techniques... the author of presets and paint dynamics is getting the imprinting of own emotions e mimics.
+To build good paint dynamics is more difficult what we can think, the emotions, the mimics must be considered as important variables on that.
