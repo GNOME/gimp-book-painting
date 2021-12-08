@@ -6,7 +6,7 @@ Basically the paint dynamic emulates the technique and the brush emulates the st
 ## Methodology
 To know where until is possible to push the emulation, via paint dynamics, is necessary a method or approach to testing different variables and parameters on paint dynamics. In theory, the paint dynamics could be thought to simplify the brush set and at minimum, we can have one unique brush for all techniques with different paint dynamics, one for each technique, eg. The method or approach could be exemplified so:
 
-_only we need a new brush or a special when the paint dynamics are not capable of emulating effectively a specific pictorial technique._
+_Only we need a new brush or a special when the paint dynamics are not capable of emulating effectively a specific pictorial technique._
 
 ## Dry Media
 Dry Media is normally associated with drawing tools, such as *graphite pencils*, *charcoal*, *pastel* and *crayon*.
