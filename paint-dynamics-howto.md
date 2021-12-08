@@ -3,6 +3,11 @@ The main scope is describe the guidelines to emulate some paint techniques.
 
 Basically the paint dynamic emulates the technique and the brush emulates the stain quality and characteristics of the medium, but this is not always true, what I am saying is: that in certain cases some stain marks could be alone and without paint dynamics represents a good mark for a dry medium, but with limitations to use effectively to paint. In general, a good paint dynamics dedicated to a paint technique, e.g., dry media, it could work with many stain marks also with marks thought or pulled by another medium as watercolor, for instance.
 
+## Methodology
+To know where until is possible to push the emulation, via paint dynamics, is necessary a method or approach to testing different variables and parameters on paint dynamics. In theory, the paint dynamics could be thought to simplify the brush set and at minimum, we can have one unique brush for all techniques with different paint dynamics, one for each technique, eg. The method or approach could be exemplified so:
+
+_only we need a new brush or a special when the paint dynamics are not capable of emulating effectively a specific pictorial technique._
+
 ## Dry Media
 Dry Media is normally associated with drawing tools, such as *graphite pencils*, *charcoal*, *pastel* and *crayon*.
 These drawing tools depending of the material which is build releases onto support surface, in general paper, creating a characteristic mark.
